@@ -41,12 +41,10 @@ body {
 }
 
 .glossary {
-    width: 200px;
-    height: 200px;
-    float: left;
+  width: 200px;
+  height: 200px;
+  float: left;
 }
-
-
 
 form {
   align-items: center;
@@ -111,9 +109,6 @@ footer div {
   width: 150px;
   height: 150px;
 }
-.container{
-    width: 100%;
-} 
 .grid {
   display: flex;
   justify-content: space-between;
