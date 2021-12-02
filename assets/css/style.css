@@ -40,6 +40,14 @@ body {
   font-size: 12px;
 }
 
+.glossary {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+
+
 form {
   align-items: center;
   display: flex;
@@ -74,6 +82,10 @@ form input {
   color: black;
 }
 /* Header Style End */
+/* Main Style Start*/
+section {
+    padding: 20px;
+}
 
 /* Footer Style */
 
@@ -99,7 +111,9 @@ footer div {
   width: 150px;
   height: 150px;
 }
-
+.container{
+    width: 100%;
+} 
 .grid {
   display: flex;
   justify-content: space-between;
