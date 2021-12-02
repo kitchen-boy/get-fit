@@ -40,12 +40,6 @@ body {
   font-size: 12px;
 }
 
-.glossary {
-    width: 200px;
-    height: 200px;
-    float: left;
-}
-
 
 
 form {
@@ -82,10 +76,6 @@ form input {
   color: black;
 }
 /* Header Style End */
-/* Main Style Start*/
-section {
-    padding: 20px;
-}
 
 /* Footer Style */
 
