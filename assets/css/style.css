@@ -109,6 +109,9 @@ footer div {
   width: 150px;
   height: 150px;
 }
+.container {
+  width: 100%;
+}
 .grid {
   display: flex;
   justify-content: space-between;
